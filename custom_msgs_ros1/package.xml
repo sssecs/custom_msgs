@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>arm_interfaces</name>
+  <name>arm_msgs</name>
   <version>0.0.0</version>
   <description>The custom_msgs ROS1 package</description>
 
