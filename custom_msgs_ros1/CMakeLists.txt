@@ -23,7 +23,7 @@ add_message_files(
     msg
   FILES
     ButtonPose.msg
-    ButtonPoseArray.msg
+    PerceptionPoseArray.msg
 )
 
 generate_messages(
